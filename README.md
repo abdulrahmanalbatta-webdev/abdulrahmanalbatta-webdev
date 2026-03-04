@@ -124,44 +124,6 @@ contact:     abdulrhamanalbatta.dev@gmail.com
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF2D20&icon_color=FF2D20&text_color=ffffff" />
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF2D20&icon_color=FF2D20&text_color=ffffff" />
-</a>
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF2D20&icon_color=FF2D20&text_color=ffffff" />
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_4&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF2D20&icon_color=FF2D20&text_color=ffffff" />
-</a>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=ffffff&line=FF2D20&point=FF2D20&area=true&area_color=FF2D20&hide_border=true&radius=6" width="100%"/>
-</div>
-
----
-
 ## Connect
 
 <div align="center">
