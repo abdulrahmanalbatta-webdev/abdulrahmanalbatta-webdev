@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Abdulrhaman%20Albatta&fontSize=48&fontColor=e94560&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%94%20Vue.js%20%2B%20Laravel&descSize=18&descAlignY=60&descColor=a8b2d8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d2818,70:1a0a0a,100:0a0a0a&height=220&section=header&text=Abdulrhaman%20Albatta&fontSize=48&fontColor=42b883&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%94%20Vue.js%20%2B%20Laravel&descSize=18&descAlignY=62&descColor=FF2D20" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=E94560&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;Vue.js+%2B+Laravel+%2B+REST+APIs;Clean+code%2C+better+architecture;Available+for+freelance+%26+collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=42B883&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;Vue.js+%2B+Laravel+%2B+REST+APIs;Clean+code%2C+better+architecture;Available+for+freelance+%26+collaboration)](https://git.io/typing-svg)
 
 </div>
 
@@ -60,7 +60,7 @@ contact:     abdulrhamanalbatta.dev@gmail.com
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=e94560&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=42b883&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=0f3460&label=Followers)
 ![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&color=16213e&label=Stars)
 
@@ -111,6 +111,57 @@ contact:     abdulrhamanalbatta.dev@gmail.com
 
 ---
 
+## GitHub Statistics
+
+<div align="center">
+  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=42b883&icon_color=42b883&text_color=a8b2d8&ring_color=42b883" />
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=42b883&text_color=a8b2d8&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=42b883&ring=42b883&fire=FF2D20&currStreakLabel=42b883&sideLabels=a8b2d8&dates=a8b2d8&currStreakNum=ffffff&sideNums=ffffff" />
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+</div>
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=42b883&icon_color=42b883&text_color=a8b2d8" />
+</a>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=42b883&icon_color=42b883&text_color=a8b2d8" />
+</a>
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=42b883&icon_color=42b883&text_color=a8b2d8" />
+</a>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_4&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=42b883&icon_color=42b883&text_color=a8b2d8" />
+</a>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=a8b2d8&line=42b883&point=ffffff&area=true&area_color=42b883&hide_border=true&radius=6" width="100%"/>
+</div>
+
+---
+
 ## Connect
 
 <div align="center">
@@ -127,6 +178,6 @@ contact:     abdulrhamanalbatta.dev@gmail.com
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d2818,70:1a0a0a,100:0a0a0a&height=100&section=footer&reversal=false" width="100%"/>
 
 </div>
