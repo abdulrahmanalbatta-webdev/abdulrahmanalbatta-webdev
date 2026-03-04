@@ -111,19 +111,6 @@ contact:     abdulrhamanalbatta.dev@gmail.com
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF2D20&icon_color=FF2D20&text_color=ffffff&ring_color=FF2D20" />
-  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF2D20&text_color=ffffff&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=FF2D20&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20&sideLabels=ffffff&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff" />
-</div>
-
----
-
 ## Connect
 
 <div align="center">
