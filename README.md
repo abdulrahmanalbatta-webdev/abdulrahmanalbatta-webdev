@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=YOUR%20NAME&fontSize=60&fontColor=e94560&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%94%20Vue.js%20%2B%20Laravel&descSize=18&descAlignY=60&descColor=a8b2d8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Abdulrhaman%20Albatta&fontSize=48&fontColor=e94560&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%94%20Vue.js%20%2B%20Laravel&descSize=18&descAlignY=60&descColor=a8b2d8" width="100%"/>
 
 </div>
 
@@ -29,7 +29,7 @@ I am a Fullstack Web Developer specializing in building complete web solutions â
 
 namespace App\Developers;
 
-class YourName extends FullstackDeveloper
+class AbdulrhamanAlbatta extends FullstackDeveloper
 {
     public string $role     = 'Fullstack Developer';
     public string $frontend = 'Vue.js / Nuxt.js';
@@ -50,12 +50,12 @@ class YourName extends FullstackDeveloper
 ### Quick Facts
 
 ```yaml
-location:    Your City, Country
-experience:  X+ Years
+location:    Gaza Strip, Palestine
+experience:  3+ Years
 specialty:   Vue.js + Laravel
 approach:    API-first Development
 focus:       Performance & Clean Code
-contact:     your@email.com
+contact:     abdulrhamanalbatta.dev@gmail.com
 ```
 
 <br/>
@@ -169,7 +169,7 @@ contact:     your@email.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_PROFILE)
 [![Twitter / X](https://img.shields.io/badge/X_(Twitter)-0d1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/YOUR_HANDLE)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:abdulrhamanalbatta.dev@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/YOUR_ID)
 
 </div>
