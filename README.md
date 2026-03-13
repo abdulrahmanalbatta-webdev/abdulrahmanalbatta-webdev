@@ -20,7 +20,7 @@
 <tr>
 <td valign="top" width="55%">
 
-### 👨‍💻 About Me
+### About Me
 
 I'm a **Full-Stack Developer** specialized in building robust, scalable, and secure applications using **Laravel & Vue.js**. I craft seamless experiences from database architecture to pixel-perfect UIs, focusing on clean code, performance, and maintainability.
 
@@ -31,59 +31,59 @@ namespace App\Developers;
 
 class AbdulrhamanAlbatta extends FullStackDeveloper
 {
-    public string $role      = 'Full-Stack Developer';
-    public string $backend   = 'Laravel / PHP';
-    public string $frontend  = 'Vue.js / JavaScript';
+ public string $role = 'Full-Stack Developer';
+ public string $backend = 'Laravel / PHP';
+ public string $frontend = 'Vue.js / JavaScript';
 
-    public array $expertise  = [
-        'REST API & GraphQL',
-        'Vue 3 + Composition API',
-        'Inertia.js & SPA/SSR',
-        'Redis & Queue Systems',
-        'PHPUnit & TDD',
-        'Docker & Linux',
-    ];
+ public array $expertise = [
+ 'REST API & GraphQL',
+ 'Vue 3 + Composition API',
+ 'Inertia.js & SPA/SSR',
+ 'Redis & Queue Systems',
+ 'PHPUnit & TDD',
+ 'Docker & Linux',
+ ];
 
-    public array $databases  = [
-        'MySQL', 'PostgreSQL', 'Redis',
-    ];
+ public array $databases = [
+ 'MySQL', 'PostgreSQL', 'Redis',
+ ];
 
-    public bool $openToWork  = true;
+ public bool $openToWork = true;
 
-    public function currentlyLearning(): array
-    {
-        return [
-            'Laravel Octane',
-            'Laravel Reverb',
-            'Nuxt.js',
-            'Microservices',
-        ];
-    }
+ public function currentlyLearning(): array
+ {
+ return [
+ 'Laravel Octane',
+ 'Laravel Reverb',
+ 'Nuxt.js',
+ 'Microservices',
+ ];
+ }
 
-    public function contact(): string
-    {
-        return 'abdulrhamanalbatta.dev@gmail.com';
-    }
+ public function contact(): string
+ {
+ return 'abdulrhamanalbatta.dev@gmail.com';
+ }
 }
 ```
 
 </td>
 <td valign="top" width="45%">
 
-### ⚡ Quick Facts
+### Quick Facts
 
 ```yaml
-location:     Gaza Strip, Palestine 🇵🇸
-experience:   3+ Years
-stack:        Laravel + Vue.js
-approach:     API-first, TDD, Clean Code
-specialty:    Full-Stack Web Apps
-contact:      abdulrhamanalbatta.dev@gmail.com
+location: Gaza Strip, Palestine 
+experience: 3+ Years
+stack: Laravel + Vue.js
+approach: API-first, TDD, Clean Code
+specialty: Full-Stack Web Apps
+contact: abdulrhamanalbatta.dev@gmail.com
 ```
 
 <br/>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0d0d0d&title_color=FF2D20&text_color=c9d1d9&border_color=1f1f1f&hide_border=false&langs_count=8)
 
@@ -102,18 +102,18 @@ contact:      abdulrhamanalbatta.dev@gmail.com
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### ⚙️ Backend — Laravel / PHP
+### Backend — Laravel / PHP
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/PHP-1a1a2e?style=for-the-badge&logo=php&logoColor=8892BF)
 ![Composer](https://img.shields.io/badge/Composer-0d0d0d?style=for-the-badge&logo=composer&logoColor=ffffff)
 ![Livewire](https://img.shields.io/badge/Livewire-FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff)
 
-### 🎨 Frontend — Vue.js / JavaScript
+### Frontend — Vue.js / JavaScript
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-0d0d0d?style=for-the-badge&logo=vue.js&logoColor=42b883)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -124,7 +124,7 @@ contact:      abdulrhamanalbatta.dev@gmail.com
 ![Vite](https://img.shields.io/badge/Vite-0d0d0d?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
 
-### 🔌 API & Communication
+### API & Communication
 
 ![REST API](https://img.shields.io/badge/REST_API-FF2D20?style=for-the-badge&logo=fastapi&logoColor=ffffff)
 ![GraphQL](https://img.shields.io/badge/GraphQL-0d0d0d?style=for-the-badge&logo=graphql&logoColor=E10098)
@@ -132,28 +132,28 @@ contact:      abdulrhamanalbatta.dev@gmail.com
 ![Sanctum](https://img.shields.io/badge/Laravel_Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff)
 ![Passport](https://img.shields.io/badge/Laravel_Passport-FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff)
 
-### 🗄️ Database & Caching
+### Database & Caching
 
 ![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![SQLite](https://img.shields.io/badge/SQLite-0d0d0d?style=for-the-badge&logo=sqlite&logoColor=4db6f7)
 
-### ⚡ Queues & Real-time
+### Queues & Real-time
 
 ![Laravel Queues](https://img.shields.io/badge/Laravel_Queues-FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff)
 ![Laravel Horizon](https://img.shields.io/badge/Laravel_Horizon-FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff)
 ![Laravel Reverb](https://img.shields.io/badge/Laravel_Reverb-FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff)
 ![Laravel Schedule](https://img.shields.io/badge/Task_Scheduling-FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff)
 
-### 🧪 Testing
+### Testing
 
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-0d0d0d?style=for-the-badge&logo=php&logoColor=6c3483)
 ![Pest PHP](https://img.shields.io/badge/Pest_PHP-FF2D20?style=for-the-badge&logo=php&logoColor=ffffff)
 ![Vitest](https://img.shields.io/badge/Vitest-0d0d0d?style=for-the-badge&logo=vite&logoColor=6E9F18)
 ![Cypress](https://img.shields.io/badge/Cypress-0d0d0d?style=for-the-badge&logo=cypress&logoColor=69D3A7)
 
-### 🚀 DevOps & Infrastructure
+### DevOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=FCC624)
@@ -165,7 +165,7 @@ contact:      abdulrhamanalbatta.dev@gmail.com
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
 | # | Service | Description | Stack |
 |---|---------|-------------|-------|
@@ -181,45 +181,45 @@ contact:      abdulrhamanalbatta.dev@gmail.com
 
 ---
 
-## 🏗️ Architecture & Principles
+## Architecture & Principles
 
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│                    FULL-STACK ARCHITECTURE                       │
-├──────────────────────────┬───────────────────────────────────────┤
-│       FRONTEND           │            BACKEND                    │
-│      (Vue.js 3)          │           (Laravel)                   │
-├──────────────────────────┼───────────────────────────────────────┤
-│  ┌────────────────────┐  │  ┌──────────┬───────────┬──────────┐  │
-│  │   Views / Pages    │  │  │   API    │  Service  │  Repos   │  │
-│  ├────────────────────┤  │  │  Layer   │   Layer   │  Layer   │  │
-│  │  Pinia (State)     │◄─┼─►│Controllers│ Business │  Query   │  │
-│  ├────────────────────┤  │  │Resources │  Logic   │  Cache   │  │
-│  │  Vue Router (SPA)  │  │  │Requests  │  Events  │  Models  │  │
-│  ├────────────────────┤  │  └──────────┴───────────┴──────────┘  │
-│  │  Composables       │  │         ↓            ↓                │
-│  │  (Reusable Logic)  │  │   [Queue Jobs]  [Observers]           │
-│  └────────────────────┘  │                                       │
-└──────────────────────────┴───────────────────────────────────────┘
-                    ↕ Inertia.js / REST API / WebSockets
+
+ FULL-STACK ARCHITECTURE 
+
+ FRONTEND BACKEND 
+ (Vue.js 3) (Laravel) 
+
+ 
+ Views / Pages API Service Repos 
+ Layer Layer Layer 
+ Pinia (State) Controllers Business Query 
+ Resources Logic Cache 
+ Vue Router (SPA) Requests Events Models 
+ 
+ Composables ↓ ↓ 
+ (Reusable Logic) [Queue Jobs] [Observers] 
+ 
+
+ ↕ Inertia.js / REST API / WebSockets
 ```
 
 </div>
 
 ```
-✔  SOLID Principles            ✔  Repository Pattern
-✔  Service Layer Pattern        ✔  API Resources & Transformers
-✔  Event-Driven Architecture    ✔  Observer Pattern
-✔  DRY & Clean Code             ✔  TDD Workflow
-✔  Composition API (Vue 3)      ✔  Component-Driven Development
-✔  State Management (Pinia)     ✔  Reusable Composables
+ SOLID Principles Repository Pattern
+ Service Layer Pattern API Resources & Transformers
+ Event-Driven Architecture Observer Pattern
+ DRY & Clean Code TDD Workflow
+ Composition API (Vue 3) Component-Driven Development
+ State Management (Pinia) Reusable Composables
 ```
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
