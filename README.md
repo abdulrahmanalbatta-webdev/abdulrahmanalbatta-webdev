@@ -106,13 +106,6 @@ contact: abdulrhamanalbatta.dev@gmail.com
 
 <div align="center">
 
-### Backend — Laravel / PHP
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff)
-![PHP](https://img.shields.io/badge/PHP-1a1a2e?style=for-the-badge&logo=php&logoColor=8892BF)
-![Composer](https://img.shields.io/badge/Composer-0d0d0d?style=for-the-badge&logo=composer&logoColor=ffffff)
-![Livewire](https://img.shields.io/badge/Livewire-FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff)
-
 ### Frontend — Vue.js / JavaScript
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-0d0d0d?style=for-the-badge&logo=vue.js&logoColor=42b883)
@@ -123,6 +116,13 @@ contact: abdulrhamanalbatta.dev@gmail.com
 ![Vue Router](https://img.shields.io/badge/Vue_Router-42b883?style=for-the-badge&logo=vue.js&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/Vite-0d0d0d?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+
+### Backend — Laravel / PHP
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-1a1a2e?style=for-the-badge&logo=php&logoColor=8892BF)
+![Composer](https://img.shields.io/badge/Composer-0d0d0d?style=for-the-badge&logo=composer&logoColor=ffffff)
+![Livewire](https://img.shields.io/badge/Livewire-FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff)
 
 ### API & Communication
 
